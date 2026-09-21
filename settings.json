@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Runner",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "beetle.aternos.host:36131",
+    "ip": "RechSMP.aternos.me",
     "port": 36131,
     "version": "",
     "try-creative": false
