@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RechSMP.aternos.me",
+    "ip": "beetle.aternos.host:36131",
     "port": 36131,
     "version": "",
     "try-creative": false
